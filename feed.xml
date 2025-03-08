@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sistema Solar</title>
+    <link>https://carmunsan.github.io/Sistema_Solar.github.io/</link>
+    <description>Descubre todo sobre el Sistema Solar: planetas, el Sol, asteroides y más. Información detallada, imágenes y videos.</description>
+    <language>es-ES</language>
+    <image>
+      <title>Logo del Sistema Solar</title>
+      <url>https://carmunsan.github.io/Sistema_Solar.github.io/imagenes/icono.png</url>
+      <link>https://carmunsan.github.io/Sistema_Solar.github.io/</link>
+      <width>90</width>
+      <height>90</height>
+    </image>
+
+    <item>
+      <title>Inicio</title>
+      <link>https://carmunsan.github.io/Sistema_Solar.github.io/#inicio</link>
+      <description>Bienvenido al Sistema Solar. Descubre los planetas y el Sol con información detallada sobre cada uno de ellos.</description>
+    </item>
+
+    <item>
+      <title>Planetas</title>
+      <link>https://carmunsan.github.io/Sistema_Solar.github.io/#planetas</link>
+      <description>Información sobre los planetas del Sistema Solar: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno.</description>
+    </item>
+
+    <item>
+      <title>Multimedia</title>
+      <link>https://carmunsan.github.io/Sistema_Solar.github.io/#multimedia</link>
+      <description>Imágenes y videos del Sol y los planetas del Sistema Solar.</description>
+    </item>
+
+    <item>
+      <title>Datos</title>
+      <link>https://carmunsan.github.io/Sistema_Solar.github.io/#datos</link>
+      <description>Tabla con datos sobre el tamaño y la distancia al Sol de cada planeta.</description>
+    </item>
+
+    <item>
+      <title>Contacto</title>
+      <link>https://carmunsan.github.io/Sistema_Solar.github.io/#contacto</link>
+      <description>Formulario de contacto para enviar comentarios o preguntas sobre el Sistema Solar.</description>
+    </item>
+  </channel>
+</rss>
